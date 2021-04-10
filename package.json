@@ -1,0 +1,19 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "Front do Projeto Marcação de Ponto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Joel Salazar Guillermo",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "angular-route": "^1.8.2",
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {
+    "browserify-shim": "^3.8.14"
+  }
+}
